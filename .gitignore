@@ -23,6 +23,7 @@ _autosave-*
 fp-info-cache
 fp-lib-table
 sym-lib-table
+*.log
 
 # Netlist files (exported from Eeschema)
 *.net
