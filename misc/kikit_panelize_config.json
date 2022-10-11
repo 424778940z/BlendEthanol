@@ -1,0 +1,15 @@
+{
+    "layout": {
+        "hspace": "1mm",
+        "vspace": "1mm",
+        "rows": "4",
+        "cols": "4",
+        "vbonecut": "False",
+        "hbonecut": "False"
+    },
+    "cuts": {
+        "type": "mousebites",
+        "drill": "0.3mm",
+        "spacing": "0.5mm"
+    }
+}
